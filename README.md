@@ -104,7 +104,7 @@ Currently focusing on advancing DSA, system design, and mastering advanced JavaS
   <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" />
 </p>
 
-### 🔹 Other Skills
+###  Other Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Agile-2496ED?style=flat" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
@@ -135,15 +135,15 @@ Ahram Canadian University
 ---
 
 ##  **Featured Projects**
-### 🔹 Accessible Health Hub (Graduation Project)
+###  Accessible Health Hub (Graduation Project)
 Inclusive platform with text-to-speech, smart search, and JWT authentication.
 **Tech:** Node.js, Express, MongoDB
 
-### 🔹 Managerial System – Trendora Marketing Agency
+###  Managerial System – Trendora Marketing Agency
 Desktop PWA managing 6 departments to streamline company operations.
 **Tech:** React, Node.js, Express, MongoDB,PWA
 
-### 🔹 NETTUNE – Movie Platform
+###  NETTUNE – Movie Platform
 REST API with JWT, favorites, real-time comments, and automated web scraping.
 **Tech:** Node.js, Express, MongoDB, Cheerio, Puppeteer, react.js
 
