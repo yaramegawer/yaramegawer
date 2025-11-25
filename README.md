@@ -75,30 +75,17 @@ Ahram Canadian University
 ---
 
 ## 📂 **Featured Projects**
-### 🔹 Knowledge Sharing Platform (Graduation Project)
-A fully accessible platform with text-to-speech, AI-driven assistance, and document search (text + audio).  
-**Tech:** React, Node.js, Express, MongoDB, Elasticsearch
-
-### 🔹 Fashion E-Commerce Website
-Multi-page fashion store with cart, login, product pages, and search.  
-**Tech:** React, Redux Toolkit, TailwindCSS, JSON Server
-
-### 🔹 Expense Tracker
-Track daily expenses with clean UI and local storage persistence.  
-**Tech:** React, Hooks
-
-###🔹 Accessible Health Hub (Graduation Project)
+### 🔹 Accessible Health Hub (Graduation Project)
 Inclusive platform with text-to-speech, smart search, and JWT authentication.
 **Tech:** Node.js, Express, MongoDB
 
-###🔹 NETTUNE – Movie Platform
-
-REST API with JWT, favorites, real-time comments, and automated web scraping.
-**Tech:** Node.js, Express, MongoDB, Cheerio, Puppeteer, react.js
-
-###🔹 Managerial System – Trendora Marketing Agency
+### 🔹 Managerial System – Trendora Marketing Agency
 Desktop PWA managing 6 departments to streamline company operations.
 **Tech:** React, Node.js, Express, MongoDB,PWA
+
+### 🔹 NETTUNE – Movie Platform
+REST API with JWT, favorites, real-time comments, and automated web scraping.
+**Tech:** Node.js, Express, MongoDB, Cheerio, Puppeteer, react.js
 
 ---
 
