@@ -66,7 +66,7 @@ Ahram Canadian University
 -	Develop and maintain full-stack web applications and internal company systems using React.js, Node.js, Express.js, and MongoDB.
 -	Implement secure, scalable, and optimized solutions that enhance workflow efficiency and support marketing operations.
 
-### **Coding Instructor, iSchool (Demi Project) **                                                                      
+### **Coding Instructor, iSchool (Demi Project)**                                                                      
 *June 2024-February 2025 | Remote & Onsite*
 -	Delivered engaging Python and Scratch lessons to 50+ students aged 8–16 in both live and recorded formats. 
 -	Created 10+ structured lesson plans and 6+ hands-on projects adapted to diverse learning styles.
