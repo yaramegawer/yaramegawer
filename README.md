@@ -26,7 +26,7 @@ Currently focusing on advancing DSA, system design, and mastering advanced JavaS
 
 ---
 
-## 🛠 **Technical Skills**
+##  **Technical Skills**
 
 ### 🔹 Programming Languages
 JavaScript • TypeScript • Python • C++ • C#  
