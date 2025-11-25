@@ -1,5 +1,5 @@
 <p align="center">
-![Demo GIF](https://github.com/user-attachments/assets/690c9761-094c-40ee-8ae7-3626ab2043cf)
+[![Demo GIF](https://github.com/user-attachments/assets/690c9761-094c-40ee-8ae7-3626ab2043cf)](https://your-video-or-live-site-link.com)
 
 </p>
 
