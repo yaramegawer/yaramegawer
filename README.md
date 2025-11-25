@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/dfdc11db-5c5b-45a9-83b2-38a978765d1f" alt="Blue Minimalist Technology Event Instagram Post" width="800" />
+<img width="1080" height="403" alt="Blue Minimalist Technology Event Instagram Post" src="https://github.com/user-attachments/assets/8cb1fe9e-f286-4326-829b-eba2d0fc88fd" />
 
 </p>
 
