@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">🚩 { Yara Sayed }</h1>
+<h1 align="center"> Yara Sayed </h1>
 <h3 align="center">  Full Stack Web Developer | Software Engineer </h3>
 
 <p align="center">
@@ -37,7 +37,7 @@ HTML5 • CSS3 • TailwindCSS • React.js • Redux Toolkit • TypeScript  �
 ### 🔹 Backend Technologies
 Node.js • Express.js • MongoDB • Mongoose • JWT • REST APIs • WebSockets  
 
-###🔹 Web Scraping
+### 🔹 Web Scraping
 Puppeteer • BeautifulSoup • Cheerio
 
 ### 🔹 Databases
@@ -46,10 +46,10 @@ MongoDB • Mongoose • MySQL • PostgreSQL • SQL
 ### 🔹 Other Skills
 Agile • Linux • UI/UX basics • Teaching & Mentoring
 
-###🔹 Tools & Workflow
+### 🔹 Tools & Workflow
 Git • GitHub • Vercel • VS Code • MongoDB Compass • JSON Server • API documentation • CI/CD concepts • postman
 
-###🔹 Authentication & Security
+### 🔹 Authentication & Security
 JWT • bcrypt • HTTPS • Password hashing & salting • RBAC • Input validation & sanitization • OWASP awareness
 
 ---
