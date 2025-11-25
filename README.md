@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1080" height="403" alt="Blue Minimalist Technology Event Instagram Post" src="https://github.com/user-attachments/assets/8cb1fe9e-f286-4326-829b-eba2d0fc88fd" />
+![Demo GIF](https://github.com/user-attachments/assets/690c9761-094c-40ee-8ae7-3626ab2043cf)
 
 </p>
 
