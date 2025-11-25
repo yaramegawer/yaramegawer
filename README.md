@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2000" height="600" alt="Beige Black Simple Professional Marketing Manager LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/8d9480f4-9f9d-445c-9161-5f1d5019bd21" />
+<img width="1080" height="1080" alt="Blue Minimalist Technology Event Instagram Post" src="https://github.com/user-attachments/assets/dfdc11db-5c5b-45a9-83b2-38a978765d1f" />
 
 </p>
 
