@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="100%" height="300" alt="Black and Gray Minimalist Software Industry Developer Logo" src="https://github.com/user-attachments/assets/f893ea41-4a3f-448e-9a91-ae42e7396ad8" />
+  <img width="2000" height="600" alt="Beige Black Simple Professional Marketing Manager LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/8d9480f4-9f9d-445c-9161-5f1d5019bd21" />
+
 </p>
 
 <!-- Header -->
