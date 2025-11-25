@@ -152,7 +152,7 @@ REST API with JWT, favorites, real-time comments, and automated web scraping.
 ## 📬 **Contact Me**
 📧 Email: yara.yarasayed@gmail.com
 🔗 LinkedIn: https://linkedin.com/in/yara-megawer
-🌐 Portfolio: Coming soon  
+🌐 Portfolio: https://portfolio-tawny-two-68.vercel.app/
 
 
 
