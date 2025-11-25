@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="500" alt="Black and Gray Minimalist Software Industry Developer Logo" src="https://github.com/user-attachments/assets/f893ea41-4a3f-448e-9a91-ae42e7396ad8" />
+  <img width="100%" height="300" alt="Black and Gray Minimalist Software Industry Developer Logo" src="https://github.com/user-attachments/assets/f893ea41-4a3f-448e-9a91-ae42e7396ad8" />
 </p>
 
 <!-- Header -->
