@@ -10,14 +10,14 @@
 
 ---
 
-## 💫 **Personal Information**
+##  **Personal Information**
 **Name:** Yara Sayed  
 **Role:** Full Stack Developer | MERN Stack | React Specialist  
 **Residence:** Giza, Egypt  
 
 ---
 
-## 🎯 **Objective**
+##  **Objective**
 Full Stack Developer with strong experience in building user-friendly, accessible, and scalable web applications.  
 I combine clean code practices with modern technologies like React, Node.js, and TypeScript.  
 Passionate about creating inclusive experiences, improving frontend performance, and automating backend workflows.
@@ -54,13 +54,13 @@ JWT • bcrypt • HTTPS • Password hashing & salting • RBAC • Input valid
 
 ---
 
-## 🎓 **Education**
+##  **Education**
 **Bachelor’s Degree in Computer Science**  
 Ahram Canadian University  
 
 ---
 
-## 💼 **Work Experience**
+##  **Work Experience**
 ### **Full Stack Web Developer — Trendora Marketing Agency**
 *September 2025 – Present*
 -	Develop and maintain full-stack web applications and internal company systems using React.js, Node.js, Express.js, and MongoDB.
@@ -74,7 +74,7 @@ Ahram Canadian University
 
 ---
 
-## 📂 **Featured Projects**
+##  **Featured Projects**
 ### 🔹 Accessible Health Hub (Graduation Project)
 Inclusive platform with text-to-speech, smart search, and JWT authentication.
 **Tech:** Node.js, Express, MongoDB
